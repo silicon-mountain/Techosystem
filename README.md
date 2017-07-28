@@ -1,2 +1,2 @@
 # silicon-mountain-pathway
-Open Directory and starting, engineering and funding Silicon Mountain startups
+Open Directory on starting, staffing and funding Silicon Mountain startups
