@@ -1,11 +1,11 @@
 # Techosystem
 Open Directory on starting, staffing, funding and sustaining the Silicon Mountain ecosystem
 
-## Silicon Mountain Projects
+## Silicon Mountain Projects[Startup projects, Community based projects]
 
-## Tech community and culture
+## Tech community and culture[Tech User Groups, and Organizations. Community Sharing Spirit]
 
-## Training and Education
+## Training and Education[Tech Education, Hackathons, Design Studios and Programs]
 
 ## Infrastructure(Tech Spaces, Internet, Hardware & Power)
 
