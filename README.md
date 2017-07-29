@@ -1,5 +1,5 @@
 # Techosystem
-Open Directory on starting, staffing, funding and sustaining Silicon Mountain ecosystem
+Open Directory on starting, staffing, funding and sustaining the Silicon Mountain ecosystem
 
 ## Silicon Mountain Projects
 
